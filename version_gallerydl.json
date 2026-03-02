@@ -1,0 +1,7 @@
+{
+    "name": "gallery-dl",
+    "type": "direct",
+    "exe": "system/lib/gallery-dl.exe",
+    "download_url": "https://github.com/mikf/gallery-dl/releases/download/v1.31.7/gallery-dl.exe",
+    "current": "v1.31.7"
+}
