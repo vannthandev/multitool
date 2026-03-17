@@ -2,6 +2,6 @@
     "name": "yt-dlp",
     "type": "direct",
     "exe": "system/lib/yt-dlp.exe",
-    "download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.02.21/yt-dlp.exe",
+    "download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.03.13/yt-dlp.exe",
     "current": "2026.02.21"
 }
